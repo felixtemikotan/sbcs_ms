@@ -1,0 +1,41 @@
+[{
+        "id": "1",
+        "username": "admin",
+        "password": "123456",
+        "email": "felixtemikotan@yahoo.com",
+        "phonenumber": "08131338486",
+        "token": ""
+    },
+    {
+        "id": "2",
+        "username": "user1",
+        "password": "1234",
+        "email": "user1@example.com",
+        "phonenumber": "08111111111",
+        "token": ""
+    },
+    {
+        "id": "3",
+        "username": "user2",
+        "password": "1234",
+        "email": "user2@example.com",
+        "phonenumber": "08122222222",
+        "token": ""
+    },
+    {
+        "id": "4",
+        "username": "user3",
+        "password": "1234",
+        "email": "user3@example.com",
+        "phonenumber": "08133333333",
+        "token": ""
+    },
+    {
+        "id": "5",
+        "username": "user4",
+        "password": "1234",
+        "email": "user4@example.com",
+        "phonenumber": "08144444444",
+        "token": ""
+    }
+]
